@@ -7,10 +7,11 @@
 
 ## Test Screenshot
 1. Register：
-
+	![Image text](screenshot/p1.png)	
 2. Login：
-
+	![Image text](screenshot/p2.png)
 3. Send email:
-
+	![Image text](screenshot/p3.png)
 4. Receive:
-
+	![Image text](screenshot/p4.png)
+	
