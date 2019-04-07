@@ -1,5 +1,5 @@
 # Preliminary Extended SMTP Protocol
-	Only for learning and communication. This is a proliminary engineering implementation, welcome to communicate with me.
+##### Only for learning and communication. This is a proliminary engineering implementation, welcome to communicate with me.
 ## Motivation: finish my homework.
 
 ## Changed
